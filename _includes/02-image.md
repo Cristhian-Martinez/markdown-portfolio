@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![master of the universe](https://github.com/Cristhian-Martinez/github-slideshow/issues/4#issuecomment-731146042)
